@@ -2,6 +2,8 @@
 
 This project contains implementations for the concurrency exercises from *Learn Java With Projects* by Dr. Sean Kennedy & Maaike Van Putten. These exercises are designed to strengthen our understanding of Java’s concurrency and multithreading features, helping us build efficient, high-performance applications.
 
+<br />
+
 ## 🔑 Key Concepts Covered
 
 - **Thread Creation**: Creating and managing threads using Java's `Thread` class and `Runnable` interface.
