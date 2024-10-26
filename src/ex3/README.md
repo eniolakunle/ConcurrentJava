@@ -1,4 +1,4 @@
-# 🛠️ Exercise 3: Java Task Assigner with ExecutorService
+# 🛠️ Exercise 3: Java Task Assigner
 
 Use ExecutorService: Create a TaskAssigner class where you use ExecutorService
 to assign tasks to employees. Tasks could be represented as Runnable or Callable objects,
