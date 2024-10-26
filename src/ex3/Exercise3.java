@@ -44,8 +44,8 @@ public class Exercise3 {
 
             try {
                 List<Future<Boolean>> taskFutures = employees.invokeAll(tasks);
-
                 do {
+                    // run this loop until all tasks are finished
                     allDone = taskFutures.stream().allMatch(Future::isDone);
                 } while (!allDone);
 

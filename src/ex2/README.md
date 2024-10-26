@@ -1,6 +1,6 @@
 # 🌳 Exercise 2: Java Threading with `sleep()` and `join()`
 
-Use sleep() and join(): Create a ParkOperations class with two threads, one for feeding
+***Use sleep() and join()***: Create a ParkOperations class with two threads, one for feeding
 and another for cleaning. Start both threads and then use sleep() to simulate a time delay
 for the feeding activity. Use join() to ensure cleaning only happens after feeding is complete
 
