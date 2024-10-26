@@ -10,5 +10,5 @@ In this project, we will create a `ParkOperations` class that has two threads: o
 - The cleaning thread will use `join()` to wait until feeding is complete before starting.
 
 ## Project Structure 🗂️
-- `ParkOperations` – Contains the two thread variable that are managed using `sleep()` and `join()`. 🚀
+- `ParkOperations` – Contains the two thread variables that are managed using `sleep()` and `join()`. 🚀
 
