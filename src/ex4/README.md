@@ -1,4 +1,4 @@
-# 🦖 Solving Race Conditions: Dinosaur Status Updater
+# 🦖 Exercise 5: Solving Race Conditions
 
 Solve race conditions in the following code snippet. updater1 and updater2 both are
 trying to update the status of the same dinosaur object. Since they run concurrently, it might
